@@ -25,6 +25,12 @@ Start the app:
 
 And go to: `localhost:3000`
 
+## Collaborators
+Since this was a private project, collaborators are not listed in the commit history. However, the following people contributed to the project:
+- Korode Ogunfowote ([@Korodee](https://github.com/Korodee))
+- Kassem El-Zoghbi ([@NvmKassem](https://github.com/NvmKassem))
+- Anis Brachemi ([@anisdzdev](https://github.com/anisdzdev))
+- Saoud Messaoudi ([@saoudmessaoudi](https://github.com/saoudmessaoudi))
 
 ## Contributing
 Pull requests are welcome and even recommended. For major changes, please open an issue first to discuss what you would like to change.
